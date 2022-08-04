@@ -24,6 +24,7 @@ Após a clonagem do repositório deve-se instalar as dependências com npm insta
 
 ## :computer: Tecnologias utilizadas
 - Bash Unix
+- PHP
 
 ##  :woman: Desenvolvedora
  
