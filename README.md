@@ -12,7 +12,7 @@ A plataforma [DIO](https://web.dio.me/home) é a responsável pela oferta desse 
 
 
 ##  :mag_right: Infraestrutura do Projeto
-
+Projeto consiste na criação de um container para que os serviços fiquem indepedentes entre si
 
 ## 📁 Acesso ao projeto
 
